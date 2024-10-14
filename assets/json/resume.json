@@ -33,19 +33,18 @@
       "highlights": [""]
     }
   ],
-  "volunteer": [
+    "education": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "institution": "University of Melbourne",
+      "location": "Melbourne, Victoria",
+      "url": "https://www.unimelb.edu.au/",
+      "area": "Global Media Communication",
+      "studyType": "Master",
+      "startDate": "",
+      "endDate": "",
+      "score": "3,91",
+      "courses": ["Media Studies.", "Political Communication"]
     }
-  ],
-  "education": [
     {
       "institution": "University of Brawijaya",
       "location": "Malang, Indonesia",
@@ -56,6 +55,18 @@
       "endDate": "",
       "score": "3,91",
       "courses": ["Media Studies.", "Political Communication"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "awards": [
